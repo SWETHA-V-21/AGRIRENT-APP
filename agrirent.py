@@ -7,7 +7,7 @@ if 'equipments' not in st.session_state:
 if 'bookings' not in st.session_state:
     st.session_state.bookings = []
 
-st.title("AgriRent: AI-Enabled Equipment Sharing Platform")
+st.title("AgriRent: An Agriculture Equipment Sharing Platform")
 tabs = st.tabs(["Seller", "Buyer"])
 
 # Seller Tab
