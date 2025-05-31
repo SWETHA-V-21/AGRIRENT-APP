@@ -1,6 +1,6 @@
-# AgriRent – AI-Enabled Farm Equipment Sharing Platform
+# AgriRent – An Agriculture Equipment Sharing Platform
 
-AgriRent is a prototype AI-enabled web platform that connects farmers looking to rent out farm equipment with those who want to rent them.
+AgriRent is a prototype of a web platform that connects farmers looking to rent out farm equipment with those who want to rent them.
 
 This project was built using **Streamlit** and deployed on **Streamlit Community Cloud** for demonstration as part of an AI internship.
 
